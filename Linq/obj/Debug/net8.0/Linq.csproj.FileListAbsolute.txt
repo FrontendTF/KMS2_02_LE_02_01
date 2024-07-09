@@ -1,0 +1,15 @@
+C:\SZF_CSharp\Linq\bin\Debug\net8.0\Linq.exe
+C:\SZF_CSharp\Linq\bin\Debug\net8.0\Linq.deps.json
+C:\SZF_CSharp\Linq\bin\Debug\net8.0\Linq.runtimeconfig.json
+C:\SZF_CSharp\Linq\bin\Debug\net8.0\Linq.dll
+C:\SZF_CSharp\Linq\bin\Debug\net8.0\Linq.pdb
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\Linq.sourcelink.json
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\Linq.dll
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\refint\Linq.dll
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\Linq.pdb
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+C:\SZF_CSharp\Linq\obj\Debug\net8.0\ref\Linq.dll
